@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Chocolate Delight",
+        "image": "https://i.ibb.co/vXfB1Dt/kelsey-curtis-d-Is-Mqal-SSE-unsplash-removebg-preview.png",
+        "price":"50"
+    },
+    {
+        "name": "Strawberry Swirl",
+        "image": "https://i.ibb.co/mS45hWq/pexels-sumanrou67-8585804-removebg-preview.png",
+        "price":"45"
+    },
+    {
+        "name": "Vanilla Classic",
+        "image": "https://i.ibb.co/yy2LDhV/pexels-david-disponett-1118410-16560515-removebg-preview.png",
+          "price":"60"
+
+    },
+    {
+        "name": "Mint Magic",
+        "image": "https://i.ibb.co/1v5MFGf/pexels-adriel-macedo-412104077-16015237-removebg-preview.png",
+          "price":"85"
+    },
+    {
+        "name": "Cookie Crunch",
+        "image": "https://i.ibb.co/ydy9Bfy/emile-mbunzama-c-Lpd-EA23-Z44-unsplash-removebg-preview.png",
+          "price":"65"
+    },
+    {
+        "name": "Berry Blast",
+        "image": "https://i.ibb.co/D4g4X24/pexels-ali-dashti-506667798-16962444-removebg-preview.png",
+          "price":"60"
+    },
+    {
+        "name": "Coffee Caramel",
+        "image": "https://i.ibb.co/DL2Qgj9/irene-kredenets-t-Vs-nga-tpo-unsplash-removebg-preview.png",
+          "price":"75"
+    },
+    {
+        "name": "Tropical Twist",
+        "image": "https://i.ibb.co/f0jbQFF/pexels-brigitte-tohm-36757-171255-removebg-preview.png",
+          "price":"55"
+    }
+]
